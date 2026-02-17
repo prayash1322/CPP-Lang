@@ -3,13 +3,13 @@
 using namespace std;
 
 int main() {
-    cout << "HELLO BABY\t" << endl;
+    cout << "HELLO WORLD\t" << endl;
 
-    printf("HELLO BABY\n");
+    printf("HELLO WORLD\n");
 
     for (int i = 0; i < 5; i++)
     {
-        printf("HELLO BABY\n");
+        printf("HELLO WORLD\n");
     }
     
     return 0;
