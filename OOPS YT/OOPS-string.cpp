@@ -8,9 +8,9 @@ private:
     // Properties/Attributes
 public:
     // Non-Parameterized Constructor
-    // Student(){
-    //     std = "12th";
-    // }
+    Student(){
+        std = "12th";
+    }
 
     // Parameterized Constructor
     Student(string n, string st, string su, double fe){
@@ -19,7 +19,7 @@ public:
         std = st;
 
     }
-
+    //There can be mutltiple constructer which is know as constructor overloading
     string name;
     string std;
     string subject;
