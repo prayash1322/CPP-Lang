@@ -18,7 +18,7 @@ public:
 
     void drive()
     {
-        cout << "Car is driving VROOOMMM!!!!" << endl;
+        cout << "Car is driving VROOOMMM VROOOMMM!!!!" << endl;
     }
 };
 
@@ -27,7 +27,7 @@ class Bike : public Vehicle
 public:
     void startEngine()
     {
-        cout << "Bike engine started successfully" << endl;
+        cout << "Bike engine has been started successfully, yooohoooo!!!" << endl;
     }
 
     void drive()
